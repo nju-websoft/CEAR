@@ -1,0 +1,62 @@
+[
+    {
+        "T1": ["per:cities_of_residence", "per:other_family", "org:founded", "per:origin"],
+        "T2": ["per:cause_of_death", "org:dissolved", "per:employee_of", "org:member_of"],
+        "T3": ["per:parents", "per:alternate_names", "org:top_members/employees", "per:siblings"],
+        "T4": ["per:stateorprovinces_of_residence", "org:alternate_names", "org:country_of_headquarters", "per:country_of_birth"],
+        "T5": ["per:children", "per:date_of_birth", "org:founded_by", "per:countries_of_residence"],
+        "T6": ["per:schools_attended", "org:subsidiaries", "org:members", "org:political/religious_affiliation"],
+        "T7": ["org:stateorprovince_of_headquarters", "per:charges", "per:stateorprovince_of_birth", "per:title"],
+        "T8": ["per:stateorprovince_of_death", "org:number_of_employees/members", "per:city_of_death", "per:spouse"],
+        "T9": ["org:website", "per:age", "per:city_of_birth", "per:date_of_death"],
+        "T10": ["org:shareholders", "org:parents", "org:city_of_headquarters", "per:religion"]
+    },
+    {
+        "T1": ["per:alternate_names", "org:founded", "per:city_of_birth", "per:employee_of"],
+        "T2": ["org:website", "org:member_of", "org:shareholders", "per:schools_attended"],
+        "T3": ["per:other_family", "per:title", "org:country_of_headquarters", "per:charges"],
+        "T4": ["per:cities_of_residence", "per:siblings", "org:parents", "per:city_of_death"],
+        "T5": ["org:number_of_employees/members", "org:founded_by", "per:date_of_birth", "org:stateorprovince_of_headquarters"],
+        "T6": ["per:countries_of_residence", "per:religion", "per:date_of_death", "per:stateorprovince_of_death"],
+        "T7": ["per:spouse", "per:age", "per:country_of_birth", "per:stateorprovince_of_birth"],
+        "T8": ["per:cause_of_death", "org:dissolved", "org:city_of_headquarters", "org:members"],
+        "T9": ["per:origin", "per:children", "per:stateorprovinces_of_residence", "org:political/religious_affiliation"],
+        "T10": ["per:parents", "org:top_members/employees", "org:subsidiaries", "org:alternate_names"]
+    },
+    {
+        "T1": ["per:stateorprovinces_of_residence", "per:age", "per:parents", "per:date_of_birth"],
+        "T2": ["org:political/religious_affiliation", "per:schools_attended", "per:cities_of_residence", "org:number_of_employees/members"],
+        "T3": ["org:subsidiaries", "org:city_of_headquarters", "per:children", "org:stateorprovince_of_headquarters"],
+        "T4": ["per:employee_of", "org:top_members/employees", "org:parents", "per:stateorprovince_of_birth"],
+        "T5": ["per:countries_of_residence", "per:religion", "org:founded", "org:founded_by"],
+        "T6": ["per:stateorprovince_of_death", "org:country_of_headquarters", "per:country_of_birth", "per:other_family"],
+        "T7": ["org:alternate_names", "per:alternate_names", "per:origin", "org:shareholders"],
+        "T8": ["org:website", "org:dissolved", "org:member_of", "per:city_of_birth"],
+        "T9": ["per:date_of_death", "per:title", "per:cause_of_death", "per:spouse"],
+        "T10": ["per:charges", "per:city_of_death", "per:siblings", "org:members"]
+    },
+    {
+        "T1": ["per:schools_attended", "per:origin", "per:age", "per:stateorprovinces_of_residence"],
+        "T2": ["org:stateorprovince_of_headquarters", "per:parents", "per:date_of_birth", "per:spouse"],
+        "T3": ["per:cities_of_residence", "org:city_of_headquarters", "org:political/religious_affiliation", "org:shareholders"],
+        "T4": ["per:alternate_names", "per:other_family", "org:alternate_names", "per:religion"],
+        "T5": ["org:dissolved", "per:city_of_birth", "org:website", "per:countries_of_residence"],
+        "T6": ["per:children", "org:members", "per:charges", "per:siblings"],
+        "T7": ["per:country_of_birth", "per:title", "org:top_members/employees", "per:date_of_death"],
+        "T8": ["per:stateorprovince_of_birth", "org:member_of", "per:stateorprovince_of_death", "org:founded"],
+        "T9": ["org:number_of_employees/members", "per:employee_of", "org:parents", "org:founded_by"],
+        "T10": ["per:city_of_death", "per:cause_of_death", "org:country_of_headquarters", "org:subsidiaries"]
+    },
+    {
+        "T1": ["org:alternate_names", "per:charges", "per:schools_attended", "per:cause_of_death"],
+        "T2": ["org:stateorprovince_of_headquarters", "per:stateorprovinces_of_residence", "per:city_of_birth", "per:country_of_birth"],
+        "T3": ["per:stateorprovince_of_death", "per:date_of_birth", "org:number_of_employees/members", "per:cities_of_residence"],
+        "T4": ["org:top_members/employees", "per:stateorprovince_of_birth", "per:siblings", "per:city_of_death"],
+        "T5": ["org:founded", "per:age", "org:members", "org:parents"],
+        "T6": ["org:country_of_headquarters", "org:shareholders", "per:spouse", "org:founded_by"],
+        "T7": ["org:member_of", "per:religion", "per:alternate_names", "per:other_family"],
+        "T8": ["org:dissolved", "per:origin", "per:employee_of", "org:city_of_headquarters"],
+        "T9": ["org:subsidiaries", "org:website", "per:countries_of_residence", "org:political/religious_affiliation"],
+        "T10": ["per:parents", "per:date_of_death", "per:children", "per:title"]
+    }
+]

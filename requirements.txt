@@ -1,0 +1,4 @@
+requests
+tqdm
+transformers==4.17.0
+nni==2.9

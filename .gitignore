@@ -1,0 +1,7 @@
+*.bin
+*.pkl
+*.zip
+*.txt
+bert-base-uncased/
+__pycache__/
+!requirements.txt

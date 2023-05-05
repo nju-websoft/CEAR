@@ -1,0 +1,1 @@
+python main.py --cuda True --cuda_device 1 --dataset_name FewRel --train_batch_size 16 --test_batch_size 128 --cl_lambda 0.5 --kd_lambda1 1.1 --kd_lambda2 0.5 --gamma 1.25 --alpha 0.5 --beta 0.5 --margin 0.1
